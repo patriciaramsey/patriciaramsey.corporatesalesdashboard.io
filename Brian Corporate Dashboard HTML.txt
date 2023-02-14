@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Dashboard</title>
+	<style>
+		table {
+			border-collapse: collapse;
+			width: 100%;
+		}
+
+		th, td {
+			text-align: left;
+			padding: 8px;
+		}
+
+		tr:nth-child(even){background-color: #f2f2f2}
+
+		th {
+			background-color: #4CAF50;
+			color: white;
+		}
+	</style>
+</head>
+<body>
+	<h1>Dashboard</h1>
+	<table>
+		<tr>
+			<th>Date</th>
+			<th>Sales (YTD)</th>
+			<th>Sales Target</th>
+			<th>Tracking to Target (YTD)</th>
+			<th>Sales Stretch Goal</th>
+			<th>Tracking to Stretch Goal (YTD)</th>
+			<th>Corporate Trial First Timers (YTD)</th>
+			<th>CATEGORY</th>
+			<th>% SALES</th>
+		</tr>
+		<tr>
+			<td>2/13/2023</td>
+			<td>$475,224</td>
+			<td>$3,000,000</td>
+			<td>131%</td>
+			<td>$5,000,000</td>
+			<td>79%</td>
+			<td>1,418</td>
+			<td>CORP MEMBERSHIPS</td>
+			<td>10%</td>
+		</tr>
+		<tr>
+			<td>44</td>
+			<td>$361,644</td>
+			<td></td>
+			<td>$602,740</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td>CORP CREDITS</td>
+			<td>56%</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td>STUDENTS</td>
+			<td>9%</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td>SOHO</td>
+			<td>2%</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td>LULULEMON</td>
+			<td>3%</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td>GROUP BOOKINGS</td>
+			<td>13%</
